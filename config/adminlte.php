@@ -316,13 +316,13 @@ return [
             'url'         => 'admin/pages',
             'icon'        => 'far fa-fw fa-file',
         ],
-        /*['header' => 'account_settings'],
+        ['header' => 'account_settings'],
         [
-            'text' => 'profile',
-            'url'  => 'admin/settings',
+            'text' => 'Usuários',
+            'url'  => '/user',
             'icon' => 'fas fa-fw fa-user',
         ],
-        [
+        /*[
             'text' => 'change_password',
             'url'  => 'admin/settings',
             'icon' => 'fas fa-fw fa-lock',
